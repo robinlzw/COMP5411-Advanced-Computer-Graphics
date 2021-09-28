@@ -2,10 +2,10 @@
 
 ## Assignment 0: Preparation
 Original Mesh </br>
-![Alt text](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png) </br>
-![Alt text](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh.png) </br>
+![Alt text](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png =250x) </br>
+![Alt text](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh.png =250x) </br>
 Compute normal for each vertex </br>
-![Alt text](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh%20Normal.png) </br>
+![Alt text](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh%20Normal.png =250x) </br>
 
 
 ## Assignment 1: Smoothing
