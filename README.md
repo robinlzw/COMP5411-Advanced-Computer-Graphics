@@ -2,7 +2,7 @@
 
 ## Assignment 0: Preparation
 Original Mesh </br>
-![](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png){ width=25% } </br>
+![](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png)<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png"  width="120"> </br>
 ![](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh.png){ width=25% } </br>
 Compute normal for each vertex </br>
 ![](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh%20Normal.png){ width=25% } </br>
