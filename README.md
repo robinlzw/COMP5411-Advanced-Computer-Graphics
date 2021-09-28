@@ -2,28 +2,38 @@
 
 ## Assignment 0: Preparation
 Original Mesh </br>
-![]<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png"  width="600"> </br>
-![](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh.png){ width=25% } </br>
-Compute normal for each vertex </br>
-![](https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh%20Normal.png){ width=25% } </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion.png"  width="600"> </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh.png"  width="600"> </br>
 
+Compute normal for each vertex </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Lion%20Mesh%20Normal.png
+"  width="600"> </br>
 
 ## Assignment 1: Smoothing
 Original Bunny </br>
-![Alt text](pa1/images/Original\ B.jpg?raw=true "Bunny") </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Original%20B.png
+"  width="600"> </br>
 Smoothed Bunny </br>
-![Alt text](pa1/images/Smoothed\ B1.jpg?raw=true "Smoothed Bunny")
-![Alt text](pa1/images/Smoothed\ B2.jpg?raw=true "Smoooothed Bunny") </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Smoothed%20B1.png
+"  width="600"> 
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Smoothed%20B2.png
+"  width="600"> </br>
 Original Feline </br>
-![Alt text](pa1/images/Original\ F.jpg?raw=true "Feline") </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Original%20F.png
+"  width="600"> </br>
 Smoothed Feline </br>
-![Alt text](pa1/images/Smoothed\ F1.jpg?raw=true "Smoothed Feline")
-![Alt text](pa1/images/Smoothed\ F2.jpg?raw=true "Smoooothed Feline") </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Smoothed%20F1.png
+"  width="600"> 
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Smoothed%20F2.png
+"  width="600"> </br>
 Original 3 Holes </br>
-![Alt text](pa1/images/Original\ 3H.jpg?raw=true "3H") </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Original%203H.png
+"  width="600"> </br>
 Smoothed 3 Holes </br>
-![Alt text](pa1/images/Smoothed\ 3H1.jpg?raw=true "Smoothed 3H")
-![Alt text](pa1/images/Smoothed\ 3H2.jpg?raw=true "Smoooothed 3H") </br>
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Smoothed%203H1.png
+"  width="600"> 
+<img src="https://github.com/PeePeeDante/COMP5411-Advanced-Computer-Graphics/blob/main/pa1/images/Smoothed%203H2.png
+"  width="600"> </br>
 
 
 ## Assignment 2: Deformation
