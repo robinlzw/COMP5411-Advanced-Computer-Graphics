@@ -3,7 +3,7 @@
 ## Assignment 0: Preparation
 Original Mesh <\br>
 ![Alt text](pa1/images/Lion.jpg?raw=true "Lion") <\br>
-![Alt text](pa1/images/Lion\ Mesh.jpg) <\br>
+![Alt text](pa1/images/Lion Mesh.jpg) <\br>
 Compute normal for each vertex <\br>
 ![Alt text](pa1/images/Lion\ Mesh\ Normal.jpg?raw=true "Lion Mesh Normal") <\br>
 
